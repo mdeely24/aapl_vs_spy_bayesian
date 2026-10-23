@@ -63,7 +63,7 @@ Each month is a win (AAPL beats SPY) or a loss.
 - Hierarchical model across many stocks with partial pooling, to reduce selection bias.
 
 ## How to run
-1. Click the Colab badge above (or open the notebook in Colab).
+1. Open https://colab.research.google.com/drive/1ug1SByfaYJVVXwOL8VojxcIAHj-ZD45t?usp=sharing in Google Colab.
 2. Run the first cell to install dependencies: `pymc`, `arviz`, `yfinance`.
 3. Run all cells. Sampling takes a few minutes.
 
